@@ -1,0 +1,15 @@
+D:\Code\C#\Mp3Player\bin\Debug\Mp3Player.exe.config
+D:\Code\C#\Mp3Player\bin\Debug\Mp3Player.exe
+D:\Code\C#\Mp3Player\bin\Debug\Mp3Player.pdb
+D:\Code\C#\Mp3Player\obj\Debug\Mp3Player.Controls.ucBackPanel.resources
+D:\Code\C#\Mp3Player\obj\Debug\Mp3Player.Controls.ucProgressBar.resources
+D:\Code\C#\Mp3Player\obj\Debug\Mp3Player.MainFrm.resources
+D:\Code\C#\Mp3Player\obj\Debug\Mp3Player.Properties.Resources.resources
+D:\Code\C#\Mp3Player\obj\Debug\Mp3Player.csproj.GenerateResource.cache
+D:\Code\C#\Mp3Player\obj\Debug\Mp3Player.exe
+D:\Code\C#\Mp3Player\obj\Debug\Mp3Player.pdb
+D:\Code\C#\Mp3Player\obj\Debug\Mp3Player.Controls.ucToolBar.resources
+D:\Code\C#\Mp3Player\obj\Debug\Mp3Player.Controls.ucPlayerHead.resources
+D:\Code\C#\Mp3Player\obj\Debug\Mp3Player.Controls.ucSongList.resources
+D:\Code\C#\Mp3Player\obj\Debug\Mp3Player.Controls.ucVolPanel.resources
+D:\Code\C#\Mp3Player\obj\Debug\Mp3Player.csprojAssemblyReference.cache
